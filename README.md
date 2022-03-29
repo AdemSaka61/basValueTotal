@@ -1,0 +1,2 @@
+# basValueTotal
+basamak-degerlerinin-toplami
